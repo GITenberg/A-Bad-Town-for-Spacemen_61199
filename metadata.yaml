@@ -1,11 +1,16 @@
 _repo: A-Bad-Town-for-Spacemen_61199
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61199-h/images/cover.jpg
 creator:
   author:
     agent_name: Scott, Robert
     gutenberg_agent_id: '51296'
     url: http://www.gutenberg.org/2009/agents/51296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61199#A-Bad-Town-for-Spacemen
 gutenberg_issued: '2020-01-19'
 gutenberg_type: Text
 identifiers:
